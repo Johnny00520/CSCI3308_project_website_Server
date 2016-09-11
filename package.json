@@ -1,0 +1,32 @@
+{
+  "name": "gds-hdd-server",
+  "version": "1.0.0",
+  "description": "API Server for the gds-hdd app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nateph/gds-hdd-server.git"
+  },
+  "author": "Nathan Phillips",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.0",
+    "express": "^4.14.0",
+    "jwt-simple": "^0.5.0",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.10.2",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.1.0",
+    "passport-local": "^1.0.0",
+    "redux-form": "^6.0.1"
+  }
+}
