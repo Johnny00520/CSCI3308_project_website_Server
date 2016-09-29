@@ -20,7 +20,7 @@ Pujan Tandukar
 ChenHao Cheng
 		
 **Description: 
-Short description (2-3 paragraphs) of the project. Provide enough information to explain what your project will accomplish.
+Short description (2-3 paragraphs) of the project. Provide enough information to explain what your project will accomplish.**
 
 Our goal for this project is to simplify the process that the OIT department at CU uses in order to record information about hard drives. The website will take in a universal login provided by the CU OIT department to their employees. The login portal will proceed to take the employee to the page that will store all the information needed about the individual computer being worked on. 
 
