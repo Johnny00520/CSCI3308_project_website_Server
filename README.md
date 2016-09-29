@@ -28,12 +28,12 @@ The website will essentially taking down user’s name, phone number, what type 
 
 Once a hard drive is completed, it will be archived and taken out of the list of active drives (ones that haven’t been completed yet).
 
-**Vision statement: Provide a vision of your project for all potential customers.
+**Vision statement: Provide a vision of your project for all potential customers.**
 
 To make it simpler to store and manage certain data that was previously stored by writing it down on paper. 
 
 **Risks: 
-What are the risks that would prevent you from completing this project? This could include: working environment, lack of experience in the field among the team, lack of access to a specific resource, etc.
+What are the risks that would prevent you from completing this project? This could include: working environment, lack of experience in the field among the team, lack of access to a specific resource, etc.**
 
 The majority of the members in the group are new to React, web development, and Bootstrap. Taking the time to learn and understand these new/hard concepts will be a challenge by itself because this will have to be done on their own time. 
 
@@ -42,12 +42,12 @@ The difference in our schedules will make it hard to meet more than once/twice a
 If one of members is not cooperative or showing up in meetings, it hinders the ability to make progress on the project. For example, team members not knowing or understanding what their responsibilities are, not owning their part of the project.
 
 **Motivation:
-Provide the background and reasons for this particular project. Why should this  project be developed?
+Provide the background and reasons for this particular project. Why should this  project be developed?**
 
 Taking down information on paper tends to be more tedious and time consuming. By having all information flow through a website (a central server), information is more easily kept and stored without risk of losing it, and ease of access is increased.
 
 **Version Control:
-List the version control you will be using on the project (suggest that you use GITHUB). Create the repository and give access to your repository to the TAs and instructor, as well as all team members.
+List the version control you will be using on the project (suggest that you use GITHUB). Create the repository and give access to your repository to the TAs and instructor, as well as all team members.**
 
 We’ll use Github.
 
@@ -55,14 +55,14 @@ For the server: https://github.com/nateph/gds-hdd-server
 For the users to access the website: https://github.com/nateph/gds-hdd
 
 **Software Development Methodology: 
-Which methodology are you planning to follow? Your methodology may change during the project. Describe the methodology and the features/steps that you will follow. Common methodologies include Waterfall, Iterative, Spiral, ..., Agile, or could be a mash-up of different methods.
+Which methodology are you planning to follow? Your methodology may change during the project. Describe the methodology and the features/steps that you will follow. Common methodologies include Waterfall, Iterative, Spiral, ..., Agile, or could be a mash-up of different methods.**
 
 Agile.
 
 Pair-programming: separate the contents by part. Two people can focus on one part. One person typing the code and the other person plays as a guide role. Not one person always do the typing or guiding.
 
 **Collaboration Tool: 
-Select a collaboration tool (commonly used tools: Slack and HipChat).
+Select a collaboration tool (commonly used tools: Slack and HipChat).**
 
 Slack
 iMessage
