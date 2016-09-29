@@ -13,10 +13,10 @@ An API backend for the gds-hdd app.
 ### Milestone 1
 
 Members: 
-Zening Li
-Ryan Fasching
-Nate Phillips
-Pujan Tandukar
+Zening Li, 
+Ryan Fasching,
+Nate Phillips, 
+Pujan Tandukar, 
 ChenHao Cheng
 		
 **Description: 
