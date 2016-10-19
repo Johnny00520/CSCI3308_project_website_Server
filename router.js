@@ -1,4 +1,4 @@
-const Authentication = require('./controllers/authentication');
+ const Authentication = require('./controllers/authentication');
 const NewPost = require('./controllers/posting');
 const passportService = require('./services/passport');
 const passport = require('passport');
@@ -9,10 +9,10 @@ const requireSignIn = passport.authenticate('local', {session: false});
 
 module.exports = function(app) {
   app.get('/', requireAuth, function(req, res, next){
-    res.send('hi there');
+    res.send({message: 'super secret code is dog'});
   })
-  app.post('/', requireSignIn, Authentication.signin);
-  app.post('/signup', Authentication.signup);
+  app.post('/signin', requireSignIn, Authentication.signin);
+  //app.post('/signup', Authentication.signup);
 
   app.post('/home', NewPost.newpost);
 }
